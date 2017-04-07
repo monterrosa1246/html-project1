@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background: url("https://zavrel.net/background.jpg") black;
+    color: white;
+    font-family: helvetica;
+    background-position: center;
+    
+}
+
+img {
+    width: 200px;
+    border-radius: 100px;
+    -webkit-border-radius 100px;
+    -moz-border-radius: 100px;
+    
+}
+
+p {
+    font-size: 22px;
+    
+}
+
+input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+
+input[type="submit"] {
+    background: red;
+    color: white;
+}
